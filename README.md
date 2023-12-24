@@ -1,0 +1,4 @@
+Hi! This is an unfinished project that I created in order to familiarize myself with project architecture and mobile development language back in high school. Some things are unfinished -- these were things I already knew how to do, and so I found it not urgent to code in. Instead, filler documents are left.
+A later version of this project was completed and submitted as part of an assignment, and thus I am not sure if I maintain the rights. As such, I have only uploaded this version, as well as a test for other versions.
+
+The primary goal of creating this was to evaluate the differences in workflow between different mobile development platofrms. get used to coding UI/UX in Swift and getting used to the XCode interface. I made a similar version of this project in Android Studios using Kotlin and another version with Flutter for the sake of comparison. I wanted to find a mobile development platform I was most comfortable with before completing the project. 
