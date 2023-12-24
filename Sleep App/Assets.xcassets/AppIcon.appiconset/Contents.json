@@ -1,11 +1,13 @@
 {
   "images" : [
     {
+      "filename" : "4040.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "6060.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
@@ -26,26 +28,31 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Screen Shot 2022-01-21 at 17.48.00-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Screen Shot 2022-01-21 at 17.48.00.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
     },
     {
+      "filename" : "2020.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
     },
     {
+      "filename" : "4040-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -61,6 +68,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "4040-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
